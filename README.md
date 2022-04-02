@@ -1,4 +1,4 @@
-# todo
+# todolist
 
 
 ### https://joeunbiin.github.io/todolist/
