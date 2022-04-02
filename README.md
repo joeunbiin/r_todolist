@@ -1,7 +1,7 @@
 # todo
 
 
-### https://joeunbiin.github.io/todo/
+### https://joeunbiin.github.io/todolist/
 
 ### 🛠 React, Javascript, HTML, CSS
 ----------
