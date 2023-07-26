@@ -1,8 +1,6 @@
 # todolist
 
 
-### https://joeunbiin.github.io/r_todolist/
-
 ### 🛠 React, Javascript, HTML, CSS
 ----------
 </br>
